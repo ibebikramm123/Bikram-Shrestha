@@ -1,0 +1,17 @@
+{
+  "name": "week4",
+  "version": "1.0.0",
+  "description": "Week4",
+  "main": "index.js",
+  "scripts": {
+    "test": "print"
+  },
+  "keywords": [
+    "CN5006"
+  ],
+  "author": "Bkm",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
